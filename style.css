@@ -94,7 +94,7 @@
 
 .input-box button{
 
-    background: #ffff76;
+    background: #4be56c;
 
     color: #333;
 
@@ -118,7 +118,7 @@
 
 .input-box button:hover{
 
-    background: rgb(9, 134, 9);
+    background: rgb(228, 54, 69);
 
     color: white;
 
@@ -158,6 +158,6 @@
 
 #result span{
 
-    color: rgb(255, 251, 0);
+    color: rgb(183, 232, 34);
 
 }
